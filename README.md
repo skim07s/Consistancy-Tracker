@@ -7,7 +7,7 @@ You add tasks, check off what you did today, and get a year view at the bottom w
 ![Consistency Tracker screenshot](docs/screenshot_dark.jpeg)
 
 ## What it does
-
+ 
 - Password login
 - Daily task checklist
 - Weekly targets per task
